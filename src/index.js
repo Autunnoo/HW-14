@@ -1,28 +1,7 @@
-// import someUsers from './users';
-// import {data} from './users';
-// import exportData from './users';
-// import {users, data} from './users';
 
-
-// const { default: Axios } = require("axios");
-
-
-
-// console.log(data);
-// console.log(users);
-
-// console.log("Hello node");
-// console.log("ESHERAZZ");
-// import homeWork5 from './src/modules/hw#5.js';
-
-// import style from './modules/styles/main.css';
-
-// import {data} from './users';
-// import {getMaxDigitt} from './modules/hw#1';
-// console.log(getMaxDigitt.getMaxDigit(12312345678));
 import homeWork1 from './hw/hw#1';
 
-// import homeWork2 from './hw/hw#2';
+import homeWork2 from './hw/hw#2';
 
 import homeWork3 from './hw/hw#3';
 
